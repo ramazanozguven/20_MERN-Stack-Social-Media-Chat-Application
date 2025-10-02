@@ -2,7 +2,7 @@
 
 ## Full-Stack Projekt mit React, Node.js, MongoDB und Socket.io
 
-![Project Screenshot](https://github.com/dein-benutzername/dein-repo-name/blob/main/screenshot.png)
+![Project Screenshot](https://github.com/ramazanozguven/20_MERN-Stack-Social-Media-Chat-Application/blob/978a15cba0872d7cb9494363c91480c7c0db8b75/Screenshot%20des%20Projekts.png)
 
 ## 📌 Projektbeschreibung
 Dieses Projekt ist eine vollständige **Social-Media- und Chat-Anwendung**, entwickelt mit dem **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
